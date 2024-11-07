@@ -1,0 +1,12 @@
+Idea Proyecto:
+Interfas web uh discord de como  cuidar el medio hambiente 
+Ideas rápidas a desarrollar:
+1. Reduce, Reutiliza y Recicla: Antes de desechar algo, piensa si puedes reutilizarlo o reciclarlo.
+2.Usa bolsas reutilizables: Cambia las bolsas de plástico por opciones de tela o biodegradables.
+3.Ahorra agua: Cierra el grifo mientras te lavas los dientes y toma duchas más cortas.
+4.Apaga las luces: Asegúrate de apagar las luces y desconectar aparatos cuando no los uses.
+5.Caminos cortos: Siempre que sea posible, camina o usa la bicicleta en lugar de conducir.
+6.Planta un árbol: Participa en jornadas de reforestación o planta en tu jardín.
+Forma de Visual: https://imgur.com/a/Z0G4JBV
+Que Usare:
+Api discord, comandos custom, web??
