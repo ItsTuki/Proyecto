@@ -97,4 +97,4 @@ if __name__ == '__main__':
     # Ejecutar Flask en un hilo separado
     Thread(target=run_flask).start()
     # Iniciar el bot de Discord
-    bot.run('MTIyNTIzMTc5MDE5NzcwNjkxNQ.GZrJTM.Bh86Yr7N8oFphDbSQozbyNWKicMjcAfHR-n_Hs') 
+    bot.run('token aqui :vvv') 
